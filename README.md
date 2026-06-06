@@ -42,9 +42,6 @@ The project combines Data Analytics, Machine Learning, and AI-driven recommendat
 * Financial goal tracking
 * Improved financial awareness
 
-## Live Demo
-
-[Paste Streamlit Link Here]
 
 ## Future Enhancements
 
