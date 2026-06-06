@@ -1,9 +1,8 @@
-# FinSaathi – AI-Powered Financial Wellness Assistant
+# FinSaathi – AI-Powered Financial Assistant
 
 ## Overview
 
 FinSaathi is an AI-powered personal finance platform designed to help users understand and improve their financial health. The application analyzes financial information, calculates a Financial Health Score, and provides actionable insights to support better financial decision-making.
-
 The project combines Data Analytics, Machine Learning, and AI-driven recommendations through an interactive Streamlit interface.
 
 ## Features
